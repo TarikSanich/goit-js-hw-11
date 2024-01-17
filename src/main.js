@@ -56,7 +56,7 @@ form.addEventListener('submit', event => {
   loaderToggle(loader);
 
   const searchParams = new URLSearchParams({
-    key: '41579263-ea77ea2d4a90e42f3f0b59371',
+    key: '41874511-ef54be4843509691624bdfc0b',
     q: query,
     image_type: 'photo',
     orientation: 'horizontal',
